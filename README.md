@@ -28,16 +28,16 @@ A big learning process for me was getting to understand the `Debug` system withi
 
 Run the program.
 You are presented with 9 options.
-	- select your choice with a single digit input from 1 - 9.
-		1. Will list the current Jet's in the AirField.
-		2. Will activate all of the Jets' flying command.
-		3. Shows the fastest Jet.
-		4. Shows the Jet with the longest range.
-		5. Will tell the Cargo Planes to load cargo.
-		6. Will tell the Fighter Jets to prepare for combat.
-		7. Will allow you to add a Passenger Jet to the AirField.
-		8. Will allow you to remove any Jet of your choice in the AirField.
-		9. Will exit the program.
+Select your choice with a single digit input from 1 - 9.
+1. Will list the current Jet's in the AirField.
+2. Will activate all of the Jets' flying command.
+3. Shows the fastest Jet.
+4. Shows the Jet with the longest range.
+5. Will tell the Cargo Planes to load cargo.
+6. Will tell the Fighter Jets to prepare for combat.
+7. Will allow you to add a Passenger Jet to the AirField.
+8. Will allow you to remove any Jet of your choice in the AirField.
+9. Will exit the program.
 Have fun with it!
 
 Thank you for checking out my program! 
