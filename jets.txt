@@ -1,0 +1,5 @@
+CargoPlane, C130, 367, 2361, 14000000
+FighterJet, F35C, 1200, 1367, 90000000
+PassengerPlane, Boeing 727, 610 , 2500, 4250000
+FighterJet, F22, 1500, 1864, 125000000
+CargoPlane, Airbus A400M, 513, 4800, 141000000
