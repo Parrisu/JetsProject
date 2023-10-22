@@ -26,8 +26,8 @@ A big learning process for me was getting to understand the `Debug` system withi
 
 ### How To Use This Program
 
-1. Run the program.
-2. You are presented with 9 options.
+Run the program.
+You are presented with 9 options.
 	- select your choice with a single digit input from 1 - 9.
 		1. Will list the current Jet's in the AirField.
 		2. Will activate all of the Jets' flying command.
@@ -38,7 +38,7 @@ A big learning process for me was getting to understand the `Debug` system withi
 		7. Will allow you to add a Passenger Jet to the AirField.
 		8. Will allow you to remove any Jet of your choice in the AirField.
 		9. Will exit the program.
-3. Have fun with it!
+Have fun with it!
 
 Thank you for checking out my program! 
 -Parris
